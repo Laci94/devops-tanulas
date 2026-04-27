@@ -6,3 +6,5 @@ git add .      = kijelölöm amit feltöltök
 git commit -m  = elmentem üzenettel
 git push       = feltöltöm GitHubra
 git pull       = letöltöm GitHubról
+## Ma tanultam
+git commit = elmenti a változásokat egy pillanatképként
